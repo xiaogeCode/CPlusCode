@@ -1,0 +1,5 @@
+﻿  helloword.cpp
+  考试成绩统计.cpp
+  正在生成代码...
+D:\workspace\c++\Project1\helloword.cpp(24,17): warning C4305: “初始化”: 从“double”到“float”截断
+  Project1.vcxproj -> D:\workspace\c++\Project1\Debug\Project1.exe
