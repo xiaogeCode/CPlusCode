@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main() {
+int main2(){
 	int a = 10;
 	//∂®“Â÷∏’Î
 	int* p;

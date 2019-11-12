@@ -5,5 +5,6 @@ int main1() {
 	return 0;
 }
 int max(int a,int b) {
+
 	return a > b ? a : b;
 }

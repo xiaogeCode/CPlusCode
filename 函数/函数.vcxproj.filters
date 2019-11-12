@@ -21,6 +21,12 @@
     <ClCompile Include="2指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4通讯录管理系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1函数.h">
